@@ -1,0 +1,10 @@
+Se fosse deseja iniciar no mundo da programação estão aqui algumas dicas:
+-Recomendo fortemente usar uma distribuição de linux inves do Windows
+-Indico fortemente usar o Vim como Editor de texto (editor é onde vc escreve o código ) e usar um  gcc como compilador
+-Estudar a linguagem C para começar , pois essa linguagem por ser de baixo nívelvai te dar uma excelente base de conceitos básicos na programação, se vc souber inglês(se vc ñ souber APRENDA AGORA) recomendo um ótimo livro " The C Programing Language" que foi escrito pelo criador da linguagem , em português existe "Como Programar em C" do Paul Deitel, existe muito material no youtube , e o c progressivo
+-Aprenda Estrutura de dados
+-Pratique e  Pratique 
+- SEJA AUTODITADA
+-Depois de saber vá para linguagems de alto nível e interpretadas (pesquise o que é baixo nível e alto nível, compiladas e interpretadas  no google(aprenda a pesquisar os termos no google, especialmnete em  inglês)
+-Aprenda USAR O STACKOVERFLOW
+-Aprenda usar cheat.sh

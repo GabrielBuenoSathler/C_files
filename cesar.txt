@@ -1,0 +1,1 @@
+copiar os elementos da ver char e adiciona mais 5 posições
